@@ -7,7 +7,7 @@ A GitHub Actions workflow  that lets you download files into your repository jus
 ---wqe
 sdf
 ## ⚙️ Setup
-dd
+ddwer
 0. Fork this repoassssdf
 1. Go to your repository on GitHub
 2. Click **Settings**dfg sdf→ **Actions** sdf→ **General**
