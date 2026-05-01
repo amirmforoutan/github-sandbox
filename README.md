@@ -12,7 +12,7 @@ ddwer
 1. Go to your repository on GitHub
 2. Click **Settings**dfg sdf→ **Actions** sdf→ **General**
 3. Scroll down to **Workflow pasdermissions**
-4. Select **Read and write permissions** and click **Save**
+4. Select **Read and write permissions** and clicksdf **Save**
 sdsds
 That's it — no tokens or secrets needed.
 
