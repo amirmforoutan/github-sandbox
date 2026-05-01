@@ -10,7 +10,7 @@ sdf
 ddwer
 0. Fork this repoassssdf
 1. Go to your repository on GitHub
-2. Click **Settings**dfg sdf→ **Actions** sdf→ **General**
+2. Click **Settings**dfg sdf→ **Actions** sdf→ **Gawdeneral**
 3. Scroll down to **Workflow pasdermissions**
 4. Select **Read and write permissions** and clicksdf **Save**
 sdsds
