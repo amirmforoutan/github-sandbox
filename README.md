@@ -8,7 +8,7 @@ A GitHub Actions workflow  that lets you download files into your repository jus
 sdf
 ## ⚙️ Setup
 ddwer
-0. Fork this repoassssdf
+0. Fork this repoassssdfsdf
 1. Go to your repository osdfn GitwerHubsdfsef
 2. Click **Settings**dfg sdf→ *sdfsdf*Actiosdfnssdawdf*sdf* swefdfsdf→ **Gawdeneral**
 3. Scroll down to **Workflow pasdermissions**
