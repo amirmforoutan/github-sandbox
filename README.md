@@ -6,7 +6,7 @@ A GitHub Actions workflow  that lets you download files into your repository jus
 1s
 ---wqe
 sdf
-## ⚙️ Setup
+## ⚙️ Setupaw
 ddwer
 0. Fork this repoassssdfsdf
 1. Go to your repository osdfn GitwerHubsdfsef
