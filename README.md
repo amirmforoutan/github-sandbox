@@ -9,7 +9,7 @@ sdf
 ## ⚙️ Setupaw
 ddwer
 0. Fork this repoassssdfsdf
-1. Go to your repository osdfn GiaseasdtwerHubsdfsef
+1. Go to your repository osdfn GiaseasdtwesdfrHubsdfsef
 2. Click **Settings**dfg sdf→ *sdfsdfsdf*Actiosdfnssdawdf*sdf* swefdfsdf→ **Gawdeneral**
 3. Scroll down to **Workflow pasdermissions**
 4. Select **Read and write permissions** and clicksdf **Save**
